@@ -22,7 +22,9 @@ No Auth
 20:30
 - Added a Welcome View
 - Showed Welcome page with link of pattern https://localhost:7242/Movie/Welcome/xxxxxx?id=yyyy 
-
+- Changed views and layout pages
+- Changed the title, footer, and menu link in the layout file
+- Passed Data from the Controller to the View
 
 
 - 
@@ -33,15 +35,18 @@ Web Application
 
 1411
 - added model for movie index
+- Added a data model class
 - Added NuGet packages
 - executed Add-Migration InitialCreate
 - Update-Database Executed
-
+- Tested the application 
 
 14:30 
 - Added the list 
 - Recieved an error
 - Fixed the page error 
+- Dependency injection updated 
+- Examined the generated database connection string
 
 
 
@@ -143,6 +148,6 @@ Web Application
 - Checked for the public repository setting in the setting 
 - Comfirmed the repository creation in the git
 
-- Testing the application 
+
  
 

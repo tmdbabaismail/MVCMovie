@@ -1,10 +1,10 @@
-MVC MOVIE APP
+MVC MOVIE APP 
+
 
 This is a Web Application project for learning and understanding how to build a C# Web Application and making a list of movies based on their release dates and ratings.
 
 This application was created by T.Md Baba Ismail . The project is called MVC Movie where the application contains information about list of movies. 
 
-Below are all the steps take to create the project 
 
 [ISO Format]
 
@@ -143,5 +143,13 @@ Web Application
 
 - Added the entries in the seed data to check for validation
 - The application works perfextly. 
+
+1520
+- Commited the chages in the GIT to push the code
+- Checked for README.md
+- Updated the README.md file
+- Checked for the public repository setting in the setting 
+- Comfirmed the repository creation in the git
+
  
 
