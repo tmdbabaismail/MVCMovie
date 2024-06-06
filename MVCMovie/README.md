@@ -91,11 +91,14 @@ Time
 
 1425
 -Added search by genre to the Index view
+- Checked if Genre tab is showing in the web page
+- Works fine
 
 1435
 
 1450
--Added a Rating Property to the Movie Model
+- Added a Rating Property to the Movie Model
+- Rating was added to the Bind funtion 
 
 1503
 -Added Rating to bind function
@@ -104,3 +107,41 @@ Time
 -Executed the commands using -
   Add-Migration Rating
   Update-Database
+
+2024-06-06
+Baba Ismail
+0850359
+Web Application
+
+1430
+
+- Delete the previously edited data completely
+- Added validation rules to the movie model
+
+1450
+- Added the seeed data 
+- Checked for validation 
+- Validation works perfectly!
+
+14:55
+- Edited the colums in Edit.cshtml
+- Added Rating section to the code
+
+1503
+- Edited the Create.cshtml 
+- Included the rating section 
+
+1516
+
+- Added the entries in the seed data to check for validation
+- The application works perfextly. 
+
+1520
+- Commited the chages in the GIT to push the code
+- Checked for README.md
+- Updated the README.md file
+- Checked for the public repository setting in the setting 
+- Comfirmed the repository creation in the git
+
+ 
+
