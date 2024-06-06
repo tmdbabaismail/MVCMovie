@@ -143,5 +143,6 @@ Web Application
 - Checked for the public repository setting in the setting 
 - Comfirmed the repository creation in the git
 
+- Testing the application 
  
 
